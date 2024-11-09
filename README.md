@@ -1,4 +1,3 @@
-````markdown
 # 📋 Projeto de Cadastro de Usuários com Vue.js
 
 Bem-vindo(a) ao projeto **Cadastro de Usuários**! Este é um aplicativo simples, mas prático, feito com Vue.js, que permite cadastrar usuários, exibir a lista de cadastros e alternar a visibilidade dessa lista.
@@ -34,7 +33,6 @@ Abaixo está a estrutura básica do projeto para facilitar o entendimento:
 │   └── 📜 index.html
 └── 📜 package.json
 ```
-````
 
 ---
 
